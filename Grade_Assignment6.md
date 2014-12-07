@@ -9,4 +9,4 @@
 
 Comments:
 
-1. Your font awesom links in the menu bar didn't retain the css style of the other links. Changing color on hover is an important user interface feature.
+1. Your font awesome links in the menu bar didn't retain the css style of the other links. Changing color on hover is an important user interface feature.
